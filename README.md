@@ -1,2 +1,3 @@
 # super-cool-calculator
-My first ever website
+
+This is one of the coolest calculator on this planet :)
